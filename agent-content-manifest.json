@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-27T13:54:54.095Z",
+  "entries": [
+    {
+      "kind": "blog",
+      "title": "Agentic AI vs Generative AI",
+      "description": "From Creative Sparks to Operational Engines",
+      "canonical": "https://arboraistudio.com/blog/agentic-ai-vs-generative-ai/",
+      "markdown": "https://arboraistudio.com/blog/agentic-ai-vs-generative-ai.md",
+      "publishedAt": "2026-02-16T00:00+06:00",
+      "updatedAt": "2026-07-27T06:52:45.299Z"
+    },
+    {
+      "kind": "blog",
+      "title": "Fix the Delay Before the Freight Quote",
+      "description": "A practical workflow note for freight forwarding, logistics, and 3PL teams in Singapore.",
+      "canonical": "https://arboraistudio.com/blog/fix-the-delay-before-the-freight-quote/",
+      "markdown": "https://arboraistudio.com/blog/fix-the-delay-before-the-freight-quote.md",
+      "publishedAt": "2026-07-02T10:00+06:00",
+      "updatedAt": "2026-07-27T05:21:36.019Z"
+    },
+    {
+      "kind": "blog",
+      "title": "From Chatbots to Do-Bots: Welcome to the Age of Agentic AI",
+      "description": "The business world is moving beyond AI that just \"talks.\" The new frontier is AI that can reason, plan, and execute complex workflows autonomously.",
+      "canonical": "https://arboraistudio.com/blog/from-chatbots-to-do-bots-welcome-to-the-age-of-agentic-ai/",
+      "markdown": "https://arboraistudio.com/blog/from-chatbots-to-do-bots-welcome-to-the-age-of-agentic-ai.md",
+      "publishedAt": "2026-01-26T00:00+06:00",
+      "updatedAt": "2026-07-27T06:57:53.115Z"
+    },
+    {
+      "kind": "blog",
+      "title": "Nobody grows up dreaming of processing purchase orders",
+      "description": "Purchase order automation used to mean templates and routing rules. Now AI agents run the whole loop, and the cost gap between manual and automated teams is hard to ignore.",
+      "canonical": "https://arboraistudio.com/blog/nobody-grows-up-dreaming-of-processing-purchase-orders/",
+      "markdown": "https://arboraistudio.com/blog/nobody-grows-up-dreaming-of-processing-purchase-orders.md",
+      "publishedAt": "2026-08-05T00:00-05:00",
+      "updatedAt": "2026-08-04T17:59:54.958Z"
+    },
+    {
+      "kind": "blog",
+      "title": "Customer Support Automation ROI",
+      "description": "Compare repeated support hiring with AI-assisted ticket resolution, human escalation, and the operational case for customer support automation.",
+      "canonical": "https://arboraistudio.com/blog/stop-hiring-support-agents-roi/",
+      "markdown": "https://arboraistudio.com/blog/stop-hiring-support-agents-roi.md",
+      "publishedAt": "2026-03-03T00:00-06:00",
+      "updatedAt": "2026-08-27T03:22:54.068Z"
+    },
+    {
+      "kind": "blog",
+      "title": "Agentic AI: From Singularity to City",
+      "description": "Explore the idea of an agentic AI intelligence explosion driven by networks of autonomous agents, distributed coordination, and societies of thought.",
+      "canonical": "https://arboraistudio.com/blog/the-agentic-ai-intelligence-explosion-from-singularity-to-city/",
+      "markdown": "https://arboraistudio.com/blog/the-agentic-ai-intelligence-explosion-from-singularity-to-city.md",
+      "publishedAt": "2026-04-06T00:00-05:00",
+      "updatedAt": "2026-08-27T03:23:29.692Z"
+    },
+    {
+      "kind": "blog",
+      "title": "OpenClaw: Agents, Paywalls, AI Employees",
+      "description": "Understand the OpenClaw debate around locally run AI agents, paywalls, system access, and the emerging idea of AI employees in business workflows.",
+      "canonical": "https://arboraistudio.com/blog/the-openclaw-controversy-agents-paywalls-and-ai-employees/",
+      "markdown": "https://arboraistudio.com/blog/the-openclaw-controversy-agents-paywalls-and-ai-employees.md",
+      "publishedAt": "2026-04-06T00:00-05:00",
+      "updatedAt": "2026-08-27T03:23:02.595Z"
+    },
+    {
+      "kind": "blog",
+      "title": "What is Agentic AI? Define",
+      "description": "The \"Brain with Hands\" that Goes Beyond ChatGPT",
+      "canonical": "https://arboraistudio.com/blog/what-is-agentic-ai/",
+      "markdown": "https://arboraistudio.com/blog/what-is-agentic-ai.md",
+      "publishedAt": "2026-02-09T00:00-06:00",
+      "updatedAt": "2026-07-27T06:53:33.738Z"
+    },
+    {
+      "kind": "blog",
+      "title": "Is Sora AI Shut Down? Key Dates and What Happens Next",
+      "description": "OpenAI ended Sora's web and app experience on April 26, 2026. The Sora API ends September 24, 2026. See key deadlines and what users should do next.",
+      "canonical": "https://arboraistudio.com/blog/why-is-openai-shutting-down-sora-the-shift-to-ai-agents/",
+      "markdown": "https://arboraistudio.com/blog/why-is-openai-shutting-down-sora-the-shift-to-ai-agents.md",
+      "publishedAt": "2026-03-31T00:00-05:00",
+      "updatedAt": "2026-08-04T18:16:34.632Z"
+    },
+    {
+      "kind": "blog",
+      "title": "Why Mythos AI and Muse AI Are Trending",
+      "description": "Explore why Mythos AI and Muse AI are attracting business interest, how their approaches differ, and what teams should evaluate before adoption.",
+      "canonical": "https://arboraistudio.com/blog/why-mythos-and-muse-ai-are-trending-in-business/",
+      "markdown": "https://arboraistudio.com/blog/why-mythos-and-muse-ai-are-trending-in-business.md",
+      "publishedAt": "2026-04-14T00:00-05:00",
+      "updatedAt": "2026-08-27T03:23:49.119Z"
+    },
+    {
+      "kind": "blog",
+      "title": "Why Custom GPTs Fail in Production",
+      "description": "Are you stuck with a great AI demo that can't handle real business logic? It’s time to graduate from \"Custom GPTs\" to robust AI agent builders like n8n and LangGraph.",
+      "canonical": "https://arboraistudio.com/blog/why-your-custom-gpt-is-failing-and-how-to-actually-build-production-ai/",
+      "markdown": "https://arboraistudio.com/blog/why-your-custom-gpt-is-failing-and-how-to-actually-build-production-ai.md",
+      "publishedAt": "2026-02-23T00:00-06:00",
+      "updatedAt": "2026-08-27T03:24:06.185Z"
+    },
+    {
+      "kind": "glossary",
+      "title": "Workflow Agent",
+      "description": "A Workflow Agent is an AI-assisted software component that helps complete a defined business process, such as triaging enquiries, drafting follow-ups, updating records, or routing exceptions for human review.",
+      "canonical": "https://arboraistudio.com/glossary/what-is-a-workflow-agent/",
+      "markdown": "https://arboraistudio.com/glossary/what-is-a-workflow-agent.md",
+      "updatedAt": "2026-07-18"
+    },
+    {
+      "kind": "glossary",
+      "title": "Agentic AI",
+      "description": "Agentic AI refers to artificial intelligence systems that can autonomously perceive their environment, reason about goals, and take actions to achieve them without constant human supervision.",
+      "canonical": "https://arboraistudio.com/glossary/what-is-agentic-ai/",
+      "markdown": "https://arboraistudio.com/glossary/what-is-agentic-ai.md",
+      "updatedAt": "2026-07-18"
+    },
+    {
+      "kind": "glossary",
+      "title": "Human-in-the-Loop AI",
+      "description": "Human-in-the-loop AI is a way of designing AI workflows so that a person reviews and approves important actions before they take effect, instead of the AI acting fully on its own.",
+      "canonical": "https://arboraistudio.com/glossary/what-is-human-in-the-loop-ai/",
+      "markdown": "https://arboraistudio.com/glossary/what-is-human-in-the-loop-ai.md",
+      "updatedAt": "2026-07-18"
+    },
+    {
+      "kind": "glossary",
+      "title": "Model Context Protocol (MCP)",
+      "description": "The Model Context Protocol (MCP) is an open standard that enables AI models to securely connect to data sources and tools, standardized by Anthropic.",
+      "canonical": "https://arboraistudio.com/glossary/what-is-model-context-protocol/",
+      "markdown": "https://arboraistudio.com/glossary/what-is-model-context-protocol.md",
+      "updatedAt": "2026-07-18"
+    },
+    {
+      "kind": "glossary",
+      "title": "Order Automation",
+      "description": "Order automation is the use of software to capture, check, and route customer orders with less manual data entry, while people keep control of approvals and exceptions.",
+      "canonical": "https://arboraistudio.com/glossary/what-is-order-automation/",
+      "markdown": "https://arboraistudio.com/glossary/what-is-order-automation.md",
+      "updatedAt": "2026-07-18"
+    },
+    {
+      "kind": "glossary",
+      "title": "Order-to-Production Handoff",
+      "description": "An order-to-production handoff is the process of turning a confirmed customer order into clear instructions that a production or packing team can act on, without manual re-entry between systems.",
+      "canonical": "https://arboraistudio.com/glossary/what-is-order-to-production-handoff/",
+      "markdown": "https://arboraistudio.com/glossary/what-is-order-to-production-handoff.md",
+      "updatedAt": "2026-07-18"
+    },
+    {
+      "kind": "glossary",
+      "title": "Purchase Order Automation",
+      "description": "Purchase order automation is software that reads incoming purchase orders, extracts the important details, checks them against business rules, and prepares them for approval and entry into an order system, reducing manual re-keying.",
+      "canonical": "https://arboraistudio.com/glossary/what-is-purchase-order-automation/",
+      "markdown": "https://arboraistudio.com/glossary/what-is-purchase-order-automation.md",
+      "updatedAt": "2026-07-18"
+    },
+    {
+      "kind": "glossary",
+      "title": "RAG (Retrieval-Augmented Generation)",
+      "description": "RAG is a technique that optimizes the output of an LLM by referencing an authoritative knowledge base outside its training data before generating a response.",
+      "canonical": "https://arboraistudio.com/glossary/what-is-rag/",
+      "markdown": "https://arboraistudio.com/glossary/what-is-rag.md",
+      "updatedAt": "2026-07-18"
+    },
+    {
+      "kind": "landing-page",
+      "title": "WhatsApp Automation for Singapore Businesses",
+      "description": "WhatsApp automation for Singapore teams: qualify leads, capture orders, update CRM or Sheets, and hand off to staff. From S$3,000; API fees separate.",
+      "canonical": "https://arboraistudio.com/whatsapp-automation-singapore/",
+      "markdown": "https://arboraistudio.com/whatsapp-automation-singapore.md",
+      "updatedAt": "2026-08-27"
+    }
+  ],
+  "resources": [
+    {
+      "kind": "agent-skill",
+      "title": "compare-arbor-pricing",
+      "url": "https://arboraistudio.com/.well-known/agent-skills/compare-arbor-pricing/SKILL.md",
+      "digest": "sha256:4f5602ac40d2de253e7c619f07db9daf0c478d99a4585c37b972ffd1d5b5b284",
+      "updatedAt": "2026-08-27"
+    },
+    {
+      "kind": "agent-skill",
+      "title": "evaluate-workflow-automation-fit",
+      "url": "https://arboraistudio.com/.well-known/agent-skills/evaluate-workflow-automation-fit/SKILL.md",
+      "digest": "sha256:a1c4ebf4772e594dfef9649cd1599b4efb85fe05863419ca4b5e72cda2dad5c9",
+      "updatedAt": "2026-08-27"
+    },
+    {
+      "kind": "site-index",
+      "title": "Arbor AI Studio",
+      "canonical": "https://arboraistudio.com/",
+      "markdown": "https://arboraistudio.com/index.md",
+      "updatedAt": "2026-08-27"
+    },
+    {
+      "kind": "pricing",
+      "title": "Arbor AI Studio Pricing",
+      "canonical": "https://arboraistudio.com/pricing/",
+      "markdown": "https://arboraistudio.com/pricing.md",
+      "updatedAt": "2026-08-27"
+    }
+  ]
+}
