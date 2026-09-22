@@ -1,0 +1,56 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+# Search crawlers must reach /investors/ to read its noindex metadata.
+# AI crawlers and answer engines are welcome except on the investor route.
+# Match both /investors and /investors/ (including static-export variants).
+User-agent: GPTBot
+Allow: /
+Disallow: /investors
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /investors
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /investors
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /investors
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /investors
+
+User-agent: Claude-User
+Allow: /
+Disallow: /investors
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /investors
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /investors
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /investors
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /investors
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Disallow: /investors
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /investors
+
+Sitemap: https://arboraistudio.com/sitemap.xml

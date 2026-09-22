@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "compare-arbor-pricing",
+      "description": "Read and compare Arbor AI Studio package pricing by region without inventing recurring fees, discounts, or implementation scope.",
+      "type": "skill-md",
+      "url": "https://arboraistudio.com/.well-known/agent-skills/compare-arbor-pricing/SKILL.md",
+      "digest": "sha256:4f5602ac40d2de253e7c619f07db9daf0c478d99a4585c37b972ffd1d5b5b284"
+    },
+    {
+      "name": "evaluate-workflow-automation-fit",
+      "description": "Evaluate whether a business workflow is a practical fit for Arbor AI Studio and identify the most relevant public service or next step.",
+      "type": "skill-md",
+      "url": "https://arboraistudio.com/.well-known/agent-skills/evaluate-workflow-automation-fit/SKILL.md",
+      "digest": "sha256:a1c4ebf4772e594dfef9649cd1599b4efb85fe05863419ca4b5e72cda2dad5c9"
+    }
+  ]
+}
